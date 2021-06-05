@@ -1,2 +1,2 @@
 # PTDL_pytorch
-Pytorch implementation of prototype_DL
+Pytorch implementation of PT_DL
